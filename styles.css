@@ -38,7 +38,7 @@ body{
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background: url(/003-task/bg.png) no-repeat 40%/cover;
+    background: url(/bg.png) no-repeat 40%/cover;
     position: relative;
 }
 #grid1::before{
